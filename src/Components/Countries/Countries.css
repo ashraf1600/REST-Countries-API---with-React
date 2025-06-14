@@ -1,0 +1,11 @@
+.countries-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 16px;
+  padding: 20px;
+}
+.countries-wrapper {
+  padding: 20px;
+  text-align: center;
+}
